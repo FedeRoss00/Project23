@@ -91,4 +91,3 @@ void clean_array(pid_t ** matrix,int row_size,int column_size){
             matrix[i][j] = 0;
         }
 }
-ciao
